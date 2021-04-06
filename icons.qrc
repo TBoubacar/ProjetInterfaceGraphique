@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/bar-chart.svg</file>
+        <file>icons/delete.png</file>
+        <file>icons/helpIcons.jpeg</file>
+        <file>icons/info.jpeg</file>
+        <file>icons/qtInfo.jpeg</file>
+        <file>icons/reloadIcons.png</file>
+        <file>icons/saveIcons.png</file>
+    </qresource>
+</RCC>
